@@ -1,23 +1,58 @@
 ---
 layout: page
-title: Elements
+title: Shipping Policy
 permalink: /elements/
 image: '/images/11.jpg'
 ---
 
-A paragraph looks like this — Globally incubate standards compliant channels before scalable benefits. Quickly disseminate superior deliverables whereas web-enabled applications. Quickly drive clicks-and-mortar catalysts for change before vertical architectures. Credibly reintermediate backend ideas for cross-platform models. Continually reintermediate integrated processes through technically sound intellectual capital. Holistically foster superior methodologies.
+## A Quick Note Before You Shop!
+
+
+##### I’m so excited to share my handmade ceramics with you! Before you make a purchase, take a moment to check out my shop policies—they’ll help ensure a smooth and happy experience.
+Every item in my shop is crafted by hand, using a mix of techniques like slab building, wheel throwing, and pinching. Each texture is carefully shaped and attached, making every piece truly one of a kind. Because of this, sizes may vary slightly, so think of it as part of the charm of handmade art!
+
+Ceramic glazes have a mind of their own, and that’s what makes them magical! Depending on the firing, they may pool, crackle, craze, or even form delicate crystals. While I do my best to match the photos, no two pieces are ever exactly alike - that’s the beauty of handmade work!
+
+
+I pour my heart into every piece, and if it leaves my studio, it’s because I know it meets the highest standards of quality. When you receive your piece, know that it was made with care and creativity, just for you.
+ 
 
 ***
 
-## Headings by default:
+## Have questions? I’m here to help!
 
+ 
+Feel free to reach out at [hello@liljen.design](mailto:hello@liljen.design) - I love chatting about my work and helping you find the perfect piece.
+Thank you for supporting handmade art—your love for unique ceramics keeps my passion alive!
+
+ ***
+
+## You might also like
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/09.jpg">
+    <img src="/images/06.jpg">
+    <img src="/images/03.jpg">
+    <img src="/images/08.jpg">
+    <img src="/images/05.jpg">
+    <img src="/images/11.jpg">
+  </div>
+  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
+</div>
+
+![Minimalism]({{site.baseurl}}/images/04.jpg)
+*Photo by [Kimon Maritz](https://unsplash.com/photos/mQiZnKwGXW0) on [Unsplash](https://unsplash.com/)*
+
+
+{% comment %} 
 # H1 Default styles for headings
 ## H2 Default styles for headings
 ### H3 Default styles for headings
 #### H4 Default styles for headings
-##### H5 Default styles for headings
 ###### H6 Default styles for headings
 
+***
 ***
 
 ## Lists
@@ -106,24 +141,6 @@ li {
   });
 {% endhighlight %}
 
-***
-
-## Images
-
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/09.jpg">
-    <img src="/images/06.jpg">
-    <img src="/images/03.jpg">
-    <img src="/images/08.jpg">
-    <img src="/images/05.jpg">
-    <img src="/images/11.jpg">
-  </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
-</div>
-
-![Minimalism]({{site.baseurl}}/images/04.jpg)
-*Photo by [Kimon Maritz](https://unsplash.com/photos/mQiZnKwGXW0) on [Unsplash](https://unsplash.com/)*
 
 ***
 
@@ -136,5 +153,5 @@ li {
 ## Vimeo Embed
 
 <p><iframe src="https://player.vimeo.com/video/147264547?title=0&byline=0" width="640" height="360" frameborder="0" allowfullscreen></iframe></p>
-
+{% endcomment %}
 ***

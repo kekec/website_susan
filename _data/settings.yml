@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
 title: Liljen Ceramic Design
-logo: # You can add own logo. For example '/images/logo.png'.
+logo: /images/logo2.png
 author: Susann Winter
 description: Contemporary Ceramic Artist
 
@@ -25,8 +25,11 @@ menu__settings:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Hello, I’m Susann, a ceramic artist in Santa Cruz, California, and the creator behind Liljen Ceramic Design.
-  hero__description: I'm a freelance designer and photographer. For almost five years I have been working with clients from a variety of clients to create pieces that meet their goals. I invite you to navigate my portfolio to know a bit more about me and my work.
+  hero__title: Hello, I’m Susann, a ceramic artist and the creator behind Liljen Ceramic Design.
+  hero__description: I create floral and coral-inspired wall installations alongside contemporary ceramic pieces. Some are functional, some are just here to look gorgeous. Every piece is handmade with patience, love, and a touch of magic. Each one is unique, ensuring every collector owns something truly one of a kind.
+Take a look around and bring a little art into your world!
+💛 Susann
+
 
 
 #-------------------------------

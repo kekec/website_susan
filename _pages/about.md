@@ -5,18 +5,30 @@ permalink: /about/
 image: '/images/01.jpg'
 ---
 
-Leverage agile frameworks to provide a robust [Hugo Sousa](https://unsplash.com/photos/BghGseQbAkA) synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Hello, I’m Susann, a ceramic artist in Santa Cruz, California, and the creator behind Liljen Ceramic Design.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
-
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
-
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
-
-Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.
+I create floral and coral-inspired wall installations alongside contemporary ceramic pieces. Some are functional, some are just here to look gorgeous. Every piece is handmade with patience, love, and a touch of magic. Each one is unique, ensuring every collector owns something truly one of a kind.
 
 ![Workflow]({{site.baseurl}}/images/03.jpg)
-*Photo by [Hugo Sousa](https://unsplash.com/photos/BghGseQbAkA) on Unsplash*
+*Coral at Seabride Beach, Santa Cruz, California*
+ 
+Living in the vibrant coastal community of Santa Cruz, I’m deeply inspired by the natural beauty around me. My European roots shape my clean, contemporary aesthetic, blending simplicity with the organic forms found in nature.
+
+My work celebrates the intricate beauty of nature, drawing from the ocean and the vibrant world of flowers. Whether it’s tide-pooling, diving, or simply observing floral shapes, I translate these inspirations into ceramic art. While rooted in nature, my goal isn’t to replicate it exactly, but to create pieces that invite interpretation—like abstract art. Through my work, I hope to spark wonder and encourage you to cherish and protect the biodiversity around us.
+
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/product1.jpg">
+	<img src="/images/product2.jpg">
+	<img src="/images/product3.jpg">
+	<img src="/images/product4.jpg">
+	<img src="/images/product5.jpg">
+	<img src="/images/product6.jpg">
+  </div>
+  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
+</div>
+
 
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
@@ -29,17 +41,7 @@ Phosfluorescently engage worldwide methodologies with web-enabled technology. In
 
 Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize scalable metrics whereas proactive e-services. Seamlessly empower fully researched growth strategies and interoperable internal or "organic" sources.
 
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/09.jpg">
-    <img src="/images/06.jpg">
-    <img src="/images/03.jpg">
-    <img src="/images/08.jpg">
-    <img src="/images/05.jpg">
-    <img src="/images/11.jpg">
-  </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
-</div>
+
 
 Completely synergize resource taxing relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.
 

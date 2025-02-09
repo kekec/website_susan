@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
 title: Liljen Ceramic Design
-logo: /images/logo2.png
+logo: /images/logo.png
 author: Susann Winter
 description: Contemporary Ceramic Artist
 
@@ -10,16 +10,16 @@ description: Contemporary Ceramic Artist
 # Menu Settings
 menu__settings:
   menu__items:
-    - title: 'Home'
+    - title: 'Welcome'
       url: '/'
-    - title: 'Blog'
-      url: '/blog/'
-    - title: 'About'
-      url: '/about/'
+    - title: 'Artwork'
+      url: '/artwork/'
+    - title: 'About the Artist'
+      url: '/abouttheartist/'
     - title: 'Contact'
       url: '/contact/'
-    - title: 'Elements'
-      url: '/elements/'
+    - title: 'Shipping Policy'
+      url: '/shippingpolicy'
 
 
 #-------------------------------

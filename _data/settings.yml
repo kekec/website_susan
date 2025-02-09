@@ -19,7 +19,7 @@ menu__settings:
     - title: 'Contact'
       url: '/contact/'
     - title: 'Shipping Policy'
-      url: '/elements'
+      url: '/elements/'
 
 
 #-------------------------------

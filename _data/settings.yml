@@ -1,9 +1,9 @@
 #-------------------------------
 # Site Settings
-title: Clancy
+title: Liljen Ceramic Design
 logo: # You can add own logo. For example '/images/logo.png'.
-author: Jason Collins
-description: Clancy is a elegant portfolio theme for Jekyll.
+author: Susann Winter
+description: Contemporary Ceramic Artist
 
 
 #-------------------------------
@@ -25,7 +25,7 @@ menu__settings:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Hello, my name’s Jason. I’m a Designer & Photographer based in San Francisco.
+  hero__title: Hello, I’m Susann, a ceramic artist in Santa Cruz, California, and the creator behind Liljen Ceramic Design.
   hero__description: I'm a freelance designer and photographer. For almost five years I have been working with clients from a variety of clients to create pieces that meet their goals. I invite you to navigate my portfolio to know a bit more about me and my work.
 
 

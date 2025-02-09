@@ -13,13 +13,13 @@ menu__settings:
     - title: 'Welcome'
       url: '/'
     - title: 'Artwork'
-      url: '/artwork/'
+      url: '/blog/'
     - title: 'About the Artist'
-      url: '/abouttheartist/'
+      url: '/about/'
     - title: 'Contact'
       url: '/contact/'
     - title: 'Shipping Policy'
-      url: '/shippingpolicy'
+      url: '/elements'
 
 
 #-------------------------------

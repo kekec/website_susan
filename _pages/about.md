@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'About the Artist'
-permalink: /abouttheartist/
+permalink: /about/
 image: '/images/01.jpg'
 ---
 

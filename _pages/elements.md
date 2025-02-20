@@ -1,29 +1,17 @@
 ---
 layout: page
-title: Shipping Policy
+title: Shopping
 permalink: /elements/
 image: '/images/11.jpg'
 ---
 
-## A Quick Note Before You Shop!
+## Before You Shop – Let’s Chat First!
 
+Spotted a piece you love? Shoot me an email at hello@liljen.design with the one that caught your eye and where you’d like it shipped!
 
-##### I’m so excited to share my handmade ceramics with you! Before you make a purchase, take a moment to check out my shop policies—they’ll help ensure a smooth and happy experience.
-Every item in my shop is crafted by hand, using a mix of techniques like slab building, wheel throwing, and pinching. Each texture is carefully shaped and attached, making every piece truly one of a kind. Because of this, sizes may vary slightly, so think of it as part of the charm of handmade art!
+Every ceramic piece is handmade with love—whether it's slab-built, wheel-thrown, or pinched, no two are exactly alike. <br><br>Glazes have a mind of their own, creating beautiful surprises like crackles, pools, and tiny crystals. That’s the magic of handmade!
 
-Ceramic glazes have a mind of their own, and that’s what makes them magical! Depending on the firing, they may pool, crackle, craze, or even form delicate crystals. While I do my best to match the photos, no two pieces are ever exactly alike - that’s the beauty of handmade work!
-
-
-I pour my heart into every piece, and if it leaves my studio, it’s because I know it meets the highest standards of quality. When you receive your piece, know that it was made with care and creativity, just for you.
- 
-
-***
-
-## Have questions? I’m here to help!
-
- 
-Feel free to reach out at [hello@liljen.design](mailto:hello@liljen.design) - I love chatting about my work and helping you find the perfect piece.
-Thank you for supporting handmade art—your love for unique ceramics keeps my passion alive!
+I carefully pack each piece so it arrives safely at your door, ready to bring joy to your space. <br><br>I hope you’ll adore your new art piece as much as I loved making it! 
 
  ***
 
@@ -37,7 +25,14 @@ Thank you for supporting handmade art—your love for unique ceramics keeps my p
     <img src="/images/08.jpg">
     <img src="/images/05.jpg">
     <img src="/images/11.jpg">
-  </div>
+  </div>ou. I carefully pack each piece so it arrives safely at your door. <br><br>I hope you’ll adore your new art piece as much as I loved making it!
+ 
+
+***
+
+{% comment %} ## Have questions? I’m here to help!
+
+ 
   <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
 
@@ -45,7 +40,7 @@ Thank you for supporting handmade art—your love for unique ceramics keeps my p
 *Photo by [Kimon Maritz](https://unsplash.com/photos/mQiZnKwGXW0) on [Unsplash](https://unsplash.com/)*
 
 
-{% comment %} 
+
 # H1 Default styles for headings
 ## H2 Default styles for headings
 ### H3 Default styles for headings

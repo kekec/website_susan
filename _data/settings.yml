@@ -25,8 +25,8 @@ menu__settings:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Welcome to Liljen Ceramic Design! 
-  hero__description: "Hello, I’m Susann, a ceramic artist and the creator behind Liljen Ceramic Design. <br>I create floral and coral-inspired wall installations alongside contemporary ceramic pieces. Some are functional, some are just here to look gorgeous. 
+  hero__title: Welcome to <br>Liljen Ceramic Design! 
+  hero__description: "I’m Susann, the artist behind Liljen Ceramic Design. <br>I create floral and coral-inspired wall installations alongside contemporary ceramic pieces. Some are functional, some are just here to look gorgeous. 
   Every piece is handmade with patience, love, and a touch of magic. Each one is unique, ensuring every collector owns something truly one of a kind. 
   Take a look around and bring a little art into your world! 
   
@@ -40,40 +40,40 @@ portfolio:
   portfolio__title: Gallery 
   portfolio__gallery:
     - image: /images/product1.jpg
-      title: Samantha Gades
-      description: Brown photo frame beside wall <a href="https://unsplash.com/photos/8Od75hgzb9Y">Unsplash</a>
+      title: White Porcelain Flower No 1
+      description: To display on any surface or to hang on a wall (completed with a hanging system) <br><a href="https://unsplash.com/photos/8Od75hgzb9Y">Discover more</a>
 
-    - image: /images/gallery-02.jpg
-      title: Paula Vermeulen
-      description: Gray mountain covered by mountain <a href="https://unsplash.com/photos/_f2m3mEkaaU">Unsplash</a>
+    - image: /images/gallery2.jpg
+      title: Ocean Inspired Bowls
+      description: Bowls come in various sizes and colors. Explore the full collection or request a custom color! <br><a href="https://unsplash.com/photos/_f2m3mEkaaU">Discover more</a>
 
     - image: /images/product3.jpg
-      title: Bench Accounting
-      description: White wooden table near brown chair <a href="https://unsplash.com/photos/nvzvOPQW0gc">Unsplash</a>
+      title: White Porcelain Flower No 2
+      description: To display on any surface or to hang on a wall (completed with a hanging system) <br><a href="https://unsplash.com/photos/nvzvOPQW0gc">Discover more</a>
 
     - image: /images/gallery-04.jpg
-      title: Nord Wood
-      description: White ceramic mug <a href="https://unsplash.com/photos/nDd3dIkkOLo">Unsplash</a>
+      title: Black Ceramic Roses
+      description: To display on any surface or to hang on a wall (completed with a hanging system)<br><a href="https://unsplash.com/photos/nDd3dIkkOLo">Discover more</a>
 
-    - image: /images/gallery-05.jpg
-      title: Luca Bravo
-      description: White ribs in a facade against a white sky <a href="https://unsplash.com/photos/alS7ewQ41M8">Unsplash</a>
+    - image: /images/gallery5.jpg
+      title: Handmade Ceramic Fortune Cookies
+      description: The perfect way to deliver heartfelt messages for any occasion! <br><a href="https://unsplash.com/photos/alS7ewQ41M8">Discover more</a>
 
     - image: /images/product4.jpg
-      title: Isaac Benhesed
-      description: Minimalist black coffee <a href="https://unsplash.com/photos/onLbXleIkds">Unsplash</a>
+      title: Black Ceramic Flower No 3
+      description: To display on any surface or to hang on a wall (completed with a hanging system) <br><a href="https://unsplash.com/photos/onLbXleIkds">Discover more</a>
 
     - image: /images/product5.jpg
-      title: Water Journal
-      description: Water Journal is a bi-annual publication exploring the beauty and complexity of all things water <a href="https://unsplash.com/photos/EbuaKnSm8Zw">Unsplash</a>
+      title: White Porcelain Roses
+      description: To display on any surface or to hang on a wall (completed with a hanging system) <br><a href="https://unsplash.com/photos/EbuaKnSm8Zw">Discover more</a>
 
-    - image: /images/gallery-08.jpg
-      title: Luca Bravo
-      description: Worms eye view of city buildings <a href="https://unsplash.com/photos/a6x7YPiNxwI">Unsplash</a>
+    - image: /images/gallery8.jpg
+      title: Egg Cups
+      description: Egg cups, butter dishes, ornaments—oh my! Check out my other fun ceramic creations! <br><a href="https://unsplash.com/photos/a6x7YPiNxwI">Discover more fun ceramics</a>
 
     - image: /images/product9.jpg
-      title: Books and Laptop
-      description: Silver laptop computer with two books on the top <a href="https://unsplash.com/photos/fFIAKABImf4">Unsplash</a>
+      title: Black And White Porcelain Dahlia
+      description: To display on any surface or to hang on a wall (completed with a hanging system) <br><a href="https://unsplash.com/photos/fFIAKABImf4">Discover more</a>
 
 
 #-------------------------------

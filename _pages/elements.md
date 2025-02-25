@@ -2,16 +2,16 @@
 layout: page
 title: Shopping
 permalink: /elements/
-image: '/images/11.jpg'
+image: '/images/shopping.jpg'
 ---
 
 ## Before You Shop – Let’s Chat First!
 
 Spotted a piece you love? Shoot me an email at hello@liljen.design with the one that caught your eye and where you’d like it shipped!
 
-Every ceramic piece is handmade with love—whether it's slab-built, wheel-thrown, or pinched, no two are exactly alike. <br><br>Glazes have a mind of their own, creating beautiful surprises like crackles, pools, and tiny crystals. That’s the magic of handmade!
+Every ceramic piece is handmade with love: whether it’s slab-built, wheel-thrown, or pinched, no two are exactly alike. Glazes have a mind of their own, creating beautiful surprises like crackles, pools, and tiny crystals. That’s the magic of handmade! These unique variations make each piece special and are not considered flaws or reasons for exchange. However, most important to me is that you are happy with your purchase, so let’s talk if you're not!
 
-I carefully pack each piece so it arrives safely at your door, ready to bring joy to your space. <br><br>I hope you’ll adore your new art piece as much as I loved making it! 
+<br><br>I hope you’ll adore your new art piece as much as I loved making it! 
 
  ***
 
@@ -19,13 +19,13 @@ I carefully pack each piece so it arrives safely at your door, ready to bring jo
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/09.jpg">
-    <img src="/images/06.jpg">
+    <img src="/images/corals.jpg">
+    <img src="/images/bluecollection.jpg">
     <img src="/images/03.jpg">
     <img src="/images/08.jpg">
     <img src="/images/05.jpg">
     <img src="/images/11.jpg">
-  </div>ou. I carefully pack each piece so it arrives safely at your door. <br><br>I hope you’ll adore your new art piece as much as I loved making it!
+  </div>Text
  
 
 ***

@@ -18,7 +18,7 @@ menu__settings:
       url: '/about/'
     - title: 'Contact'
       url: '/contact/'
-    - title: 'Shipping Policy'
+    - title: 'Shopping'
       url: '/elements/'
 
 
@@ -104,9 +104,8 @@ social:
 contact:
   email: 123
   # Add your email for contact form
-  description: 123
-#"Have questions? I’m here to help! <br><br>Feel free to reach out at hello@liljen.design - I love chatting about my work and helping you find the perfect piece.
-#<br><br>Thank you for supporting handmade art—your love for unique ceramics keeps my passion alive!"
+  description: "Have questions? I’m here to help! <br><br>Feel free to reach out at hello@liljen.design - I love chatting about my work and helping you find the perfect piece.
+<br><br>Thank you for supporting handmade art—your love for unique ceramics keeps my passion alive!"
   
   # Add a description of your form.
 

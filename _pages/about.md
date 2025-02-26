@@ -5,16 +5,18 @@ permalink: /about/
 image: '/images/01.jpg'
 ---
 
-Hello, I’m Susann, a ceramic artist in Santa Cruz, California, and the creator behind Liljen Ceramic Design.
+Hello, I’m Susann, a ceramic artist originally from Munich, Germany, now living in Santa Cruz, California. I’m the creator behind Liljen Ceramic Design.
 
 I create floral and coral-inspired wall installations alongside contemporary ceramic pieces. Some are functional, some are just here to look gorgeous. Every piece is handmade with patience, love, and a touch of magic. Each one is unique, ensuring every collector owns something truly one of a kind.
 
-![Workflow]({{site.baseurl}}/images/03.jpg)
-*Coral at Seabright Beach, Santa Cruz, California*
+![Workflow]({{site.baseurl}}/images/about2.jpg)
+*Me at Seabright Beach, Santa Cruz, California*
  
-Living in the vibrant coastal community of Santa Cruz, I’m deeply inspired by the natural beauty around me. My European roots shape my clean, contemporary aesthetic, blending simplicity with the organic forms found in nature.
+From the moment I discovered clay, I was hooked. I spend all my free time in the studio, soaking up techniques, drawing inspiration from artist friends, and immersing myself in exhibitions. Clay has become my true passion—there’s no such thing as a day without it in my hands anymore!
 
-My work celebrates the intricate beauty of nature, drawing from the ocean and the vibrant world of flowers. Whether it’s tide-pooling, diving, or simply observing floral shapes, I translate these inspirations into ceramic art. While rooted in nature, my goal isn’t to replicate it exactly, but to create pieces that invite interpretation- like abstract art. Through my work, I hope to spark wonder and encourage you to cherish and protect the biodiversity around us.
+Living by the ocean has deeply influenced my work. My European roots shape my clean, contemporary aesthetic, blending simplicity with organic forms. Whether I’m tide-pooling, diving, or admiring floral patterns, I translate these inspirations into ceramics. My pieces don’t seek to replicate nature exactly but to capture its essence—like abstract art.
+
+Through my work, I hope to spark curiosity, evoke wonder, and inspire a deeper appreciation for the beauty and biodiversity around us.
 
 
 <div class="gallery-box">

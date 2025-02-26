@@ -9,8 +9,9 @@ image: '/images/shopping.jpg'
 
 Spotted a piece you love? Shoot me an email at hello@liljen.design with the one that caught your eye and where you’d like it shipped!
 
-Every ceramic piece is handmade with love: whether it’s slab-built, wheel-thrown, or pinched, no two are exactly alike. Glazes have a mind of their own, creating beautiful surprises like crackles, pools, and tiny crystals. That’s the magic of handmade! These unique variations make each piece special and are not considered flaws or reasons for exchange. However, most important to me is that you are happy with your purchase, so let’s talk if you're not!
-
+Every ceramic piece is handmade with love: whether it’s slab-built, wheel-thrown, or pinched, no two are exactly alike. Glazes have a mind of their own, creating beautiful surprises like crackles, pools, and tiny crystals. 
+That’s the magic of handmade! These unique variations make each piece special and are not considered flaws or reasons for exchange. 
+However, most important to me is that you are happy with your purchase, so let’s talk if you're not!
 <br><br>I hope you’ll adore your new art piece as much as I loved making it! 
 
  ***
@@ -20,16 +21,13 @@ Every ceramic piece is handmade with love: whether it’s slab-built, wheel-thro
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/corals.jpg">
-    <img src="/images/bluecollection.jpg">
-    <img src="/images/03.jpg">
-    <img src="/images/08.jpg">
-    <img src="/images/05.jpg">
-    <img src="/images/11.jpg">
-  </div>Text
+    <img src="/images/FloralNo1.jpg">
+    <img src="/images/blackRoses.jpg">
+    <img src="/images/bluebarnecal.jpg">
+    <img src="/images/gallery8.jpg">
+    <img src="/images/FortuneCookies2.jpg">
+  </div>Not done shopping yet? <br>Dive into my artwork and discover more pieces you’ll love!
  
-
-***
-
 {% comment %} ## Have questions? I’m here to help!
 
  

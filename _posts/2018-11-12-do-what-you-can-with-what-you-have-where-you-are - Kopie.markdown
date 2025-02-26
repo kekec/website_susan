@@ -8,7 +8,7 @@ tags:   [lifestyle, travel, story]
 ---
 ### Design Features:
 * To display on any surface or to hang on a wall <br>(completed with a hanging system) 
-* Material: Black Clay, white Porcelain
+* Material: black clay, white porcelain
 * Size L: ~Ø 8.6' (22 cm) 
 * Price L: $430 (€410) 
 * Size S: ~Ø 4.7' (12 cm)  

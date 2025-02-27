@@ -20,11 +20,8 @@ tags:   [fashion, story, rest]
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/Dahlia1.jpg">
-    <img src="/images/Blue1.jpg">
-    <img src="/images/Blue2.jpg">
-    <img src="/images/Blue3.jpg">
-    <img src="/images/Blue4.jpg">
-    <img src="/images/Blue9.jpg">
+    <img src="/images/Dahlia2.jpg">
+    <img src="/images/Dahlia3.jpg">
   </div>
 </div>
 

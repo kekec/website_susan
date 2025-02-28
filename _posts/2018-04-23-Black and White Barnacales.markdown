@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  Dahlia Collection
+title:  Black and White Barnacles
 date:   2018-04-23 15:01:35 +0300
-image:  '/images/Dahlia0.jpg'
+image:  '/images/BarnArtw0.jpg'
 tags:   [fashion, story, rest]
 ---
 ### Design Features:
 * To display on any surface or to hang on a wall <br>(completed with a hanging system) 
-* Material: White and black Porcelain
+* Material: black clay, white porcelain
 * Size L: ~Ø 8.6' (22 cm) 
 * Price L: $430 (€410) 
 * Size M: ~Ø 6' (15 cm)  
@@ -17,12 +17,16 @@ tags:   [fashion, story, rest]
 
 
 
+
+
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/Dahlia2.jpg">
-    <img src="/images/Dahlia1.jpg">
-    <img src="/images/Dahlia3.jpg">
+    <img src="/images/BarnArtw1.jpg">
+    <img src="/images/BarnArtw2.jpg">
+    <img src="/images/BarnArtw3.jpg">
+	
+ 
   </div>
 </div>
 
-![Picture]({{site.baseurl}}/images/Collection7.jpg)
+![Picture]({{site.baseurl}}/images/BarnArtw7.jpg)

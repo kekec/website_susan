@@ -11,8 +11,11 @@ tags:   [lifestyle, travel, story]
 * Material: black clay, white porcelain
 * Size L: ~Ø 8.6' (22 cm) 
 * Price L: $430 (€410) 
+* Size M: ~Ø 6' (15 cm)  
+* Price M: $310 (€295)
 * Size S: ~Ø 4.7' (12 cm)  
 * Price S: $250 (€240)
+
 
 
 
@@ -23,9 +26,9 @@ tags:   [lifestyle, travel, story]
     <img src="/images/blackRoses1.jpg">
     <img src="/images/blackRosessmall.jpg">
     <img src="/images/blackRosessmall2.jpg">
-	<img src="/images/WhiteRose1.jpg">
-    <img src="/images/BWRoses2.jpg">
-    <img src="/images/WhiteRoses6.jpg">
+	<img src="/images/RosesArtw4.jpg">
+    <img src="/images/WhiteRose1.jpg">
+    <img src="/images/RosesArtw5.jpg">
  
   </div>
 </div>

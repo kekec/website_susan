@@ -1,14 +1,15 @@
 ---
 layout: post
-title:  Dahlia
-date:   2019-8-8 15:01:35 +0300
-image:  '/images/Dahlia0.jpg'
-tags:   [Florals, Wall Decor, Art]
+title:  Barnacles
+date:   2018-8-8 15:01:35 +0300
+image:  '/images/Barnacles0.jpg'
+tags:   [Corals, Wall Decor, Art]
 ---
 ### Design Features:
 * Can be displayed on any surface or hung on a wall (includes hanging system).
 * Each piece is meticulously hand-built, with each petal, and coral pinched and shaped by hand before being applied to a clay base.
 * Material: black clay, white porcelain
+
 
 <div class="table-container">
   <table>
@@ -25,10 +26,12 @@ tags:   [Florals, Wall Decor, Art]
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/Dahlia1.jpg">
-    <img src="/images/Dahlia2.jpg">
-    <img src="/images/Dahlia3.jpg">
+    <img src="/images/Barnacles1.jpg">
+    <img src="/images/Barnacles2.jpg">
+    <img src="/images/Barnacles3.jpg">
+	
+ 
   </div>
 </div>
 
-![Picture]({{site.baseurl}}/images/Dahlia7.jpg)
+![Picture]({{site.baseurl}}/images/Barnacles7.jpg)

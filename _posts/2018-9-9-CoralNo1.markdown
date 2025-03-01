@@ -2,11 +2,12 @@
 layout: post
 title:  Coral No. 1
 date:   2018-9-9 15:01:35 +0300
-image:  '/images/Coral10.jpg'
+image:  '/images/Coral100.jpg'
 tags:   [Corals, Wall Decor, Art]
 ---
 ### Design Features:
-* To display on any surface or to hang on a wall <br>(completed with a hanging system) 
+* Can be displayed on any surface or hung on a wall (includes hanging system).
+* Each piece is meticulously hand-built, with each petal, and coral pinched and shaped by hand before being applied to a clay base.
 * Material: black clay, white porcelain
 
 

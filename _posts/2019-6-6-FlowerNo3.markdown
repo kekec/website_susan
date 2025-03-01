@@ -6,9 +6,9 @@ image:  '/images/Flower30.jpg'
 tags:   [Florals, Wall Decor, Art]
 ---
 ### Design Features:
-* To display on any surface or to hang on a wall <br>(completed with a hanging system) 
+* Can be displayed on any surface or hung on a wall (includes hanging system).
+* Each piece is meticulously hand-built, with each petal, and coral pinched and shaped by hand before being applied to a clay base.
 * Material: black clay, white porcelain
-
 
 <div class="table-container">
   <table>

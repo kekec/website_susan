@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  Dahlia
-date:   2019-8-8 15:01:35 +0300
-image:  '/images/Dahlia0.jpg'
-tags:   [Florals, Wall Decor, Art]
+title:  Coral No. 3
+date:   2018-6-6 15:01:35 +0300
+image:  '/images/Coral30.jpg'
+tags:   [Corals, Wall Decor, Art]
 ---
 ### Design Features:
 * Can be displayed on any surface or hung on a wall (includes hanging system).
@@ -21,14 +21,14 @@ tags:   [Florals, Wall Decor, Art]
   </table>
 </div>
 
-
-
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/Dahlia1.jpg">
-    <img src="/images/Dahlia2.jpg">
-    <img src="/images/Dahlia3.jpg">
+    <img src="/images/Coral31.jpg">
+   <img src="/images/Coral32.jpg">
+ 
+
+ 
   </div>
 </div>
 
-![Picture]({{site.baseurl}}/images/Dahlia7.jpg)
+![Picture]({{site.baseurl}}/images/Coral37.jpg)

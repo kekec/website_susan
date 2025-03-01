@@ -1,14 +1,15 @@
 ---
 layout: post
-title:  Dahlia
-date:   2019-8-8 15:01:35 +0300
-image:  '/images/Dahlia0.jpg'
+title:  Flower No. 2
+date:   2018-4-4 15:01:35 +0300
+image:  '/images/Flower20.jpg'
 tags:   [Florals, Wall Decor, Art]
 ---
 ### Design Features:
 * Can be displayed on any surface or hung on a wall (includes hanging system).
 * Each piece is meticulously hand-built, with each petal, and coral pinched and shaped by hand before being applied to a clay base.
 * Material: black clay, white porcelain
+
 
 <div class="table-container">
   <table>
@@ -22,13 +23,15 @@ tags:   [Florals, Wall Decor, Art]
 </div>
 
 
-
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/Dahlia1.jpg">
-    <img src="/images/Dahlia2.jpg">
-    <img src="/images/Dahlia3.jpg">
+    <img src="/images/Flower21.jpg">
+    <img src="/images/Flower22.jpg">
+    <img src="/images/Flower23.jpg">
+	 <img src="/images/Flower24.jpg">
+    <img src="/images/Flower25.jpg">
+    <img src="/images/Flower26.jpg">
+	
+ 
   </div>
 </div>
-
-![Picture]({{site.baseurl}}/images/Dahlia7.jpg)

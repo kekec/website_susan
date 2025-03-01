@@ -2,7 +2,7 @@
 layout: post
 title:  Blue Collection with Gold Accents
 date:   2018-04-23 15:01:35 +0300
-image:  '/images/blue0.jpg'
+image:  '/images/BlueColl0.jpg'
 tags:   [fashion, story, rest]
 ---
 ### Design Features:
@@ -23,9 +23,9 @@ tags:   [fashion, story, rest]
     <img src="/images/Blue2.jpg">
     <img src="/images/Blue3.jpg">
     <img src="/images/Blue4.jpg">
-    <img src="/images/Blue9.jpg">
+    <img src="/images/BlueColl6.jpg">
   </div>
 </div>
 
-![Picture]({{site.baseurl}}/images/BlueWall.jpg)
+![Picture]({{site.baseurl}}/images/BlueColl7.jpg)
 

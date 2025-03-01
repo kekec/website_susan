@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  Flower No. 3
-date:   2018-04-23 15:01:35 +0300
-image:  '/images/Flower30.jpg'
-tags:   [fashion, story, rest]
+title:  Succulents
+description:
+date:   2019-7-7 15:01:35 +0300
+image:  '/images/Succulent0.jpg'
+tags:   [Florals, Wall Decor, Art]
 ---
 ### Design Features:
 * To display on any surface or to hang on a wall <br>(completed with a hanging system) 
 * Material: black clay, white porcelain
-
 
 <div class="table-container">
   <table>
@@ -22,13 +22,18 @@ tags:   [fashion, story, rest]
 </div>
 
 
+
+
+
+
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/Flower31.jpg">
-    <img src="/images/Flower32.jpg">
-    <img src="/images/Flower33.jpg">
+    <img src="/images/Succulent1.jpg">
+    <img src="/images/Succulent2.jpg">
+    <img src="/images/Succulent3.jpg">
 
  
   </div>
 </div>
 
+![Picture]({{site.baseurl}}/images/Succulent7.jpg)

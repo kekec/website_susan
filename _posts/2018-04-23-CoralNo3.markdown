@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Coral No. 1
+title:  Coral No. 3
 date:   2018-04-23 15:01:35 +0300
 image:  '/images/Coral30.jpg'
 tags:   [fashion, story, rest]

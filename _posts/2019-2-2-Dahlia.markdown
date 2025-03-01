@@ -1,15 +1,13 @@
 ---
 layout: post
-title:  Roses No. 1
-description:
-date:   2019-1-1 15:01:35 +0300
-image:  '/images/Roses10.jpg'
-tags:   [lifestyle, travel, story]
+title:  Dahlia
+date:   2019-8-8 15:01:35 +0300
+image:  '/images/Dahlia0.jpg'
+tags:   [Florals, Wall Decor, Art]
 ---
 ### Design Features:
 * To display on any surface or to hang on a wall <br>(completed with a hanging system) 
-* Material: black clay, white porcelain
-
+* Material: White and black Porcelain
 
 <div class="table-container">
   <table>
@@ -23,14 +21,13 @@ tags:   [lifestyle, travel, story]
 </div>
 
 
+
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/Roses11.jpg">
-    <img src="/images/Roses12.jpg">
-    <img src="/images/Roses13.jpg">
-	
- 
+    <img src="/images/Dahlia1.jpg">
+    <img src="/images/Dahlia2.jpg">
+    <img src="/images/Dahlia3.jpg">
   </div>
 </div>
 
-![Picture]({{site.baseurl}}/images/Roses17.jpg)
+![Picture]({{site.baseurl}}/images/Dahlia7.jpg)

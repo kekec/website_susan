@@ -7,7 +7,7 @@ image: '/images/shopping.jpg'
 
 ## Before You Shop – Let’s Chat First!
 
-Spotted a piece you love? Shoot me an email at hello@liljen.design with the one that caught your eye and where you’d like it shipped!
+Check out my "Artwork" section! Spotted a piece you love? Shoot me an email at [hello@liljen.design](mailto:hello@liljen.design) with the one that caught your eye and where you'd like it shipped!
 
 Every ceramic piece is handmade with love: whether it’s slab-built, wheel-thrown, or pinched, no two are exactly alike. Glazes have a mind of their own, creating beautiful surprises like crackles, pools, and tiny crystals. 
 That’s the magic of handmade! These unique variations make each piece special and are not considered flaws or reasons for exchange. 
@@ -15,6 +15,36 @@ However, most important to me is that you are happy with your purchase, so let�
 <br><br>I hope you’ll adore your new art piece as much as I loved making it! 
 
  ***
+
+<!-- begin blog -->
+<section class="blog section">
+
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+        <div class="section__info">
+          <div class="section__head">
+            <h2 class="section__title">Recent exhibitions</h2>
+            <a class="section__link" href="{{ '/blog' | relative_url }}">Artwork</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="row">
+      {% if site.posts.size > 0 %}
+        {% for post in site.posts offset:0 limit:3 %}
+          {% include article.html %}
+        {% endfor %}
+      {% endif %}
+    </div>
+  </div>
+
+</section>
+<!-- end blog -->
+
 
 ## You might also like
 

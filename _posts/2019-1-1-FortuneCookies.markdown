@@ -2,25 +2,25 @@
 layout: post
 title:  Fortune Cookies
 date:   2019-1-1 15:01:35 +0300
-image:  '/images/15.jpg'
+image:  '/images/FortuneC0.jpg'
 tags:   [Gift Ideas, Tableware, Art]
 ---
 ### Design Features:
-* xxx
-* Color: xxx
-* Material: xxx
-* Food-safe and dishwasher-safe
-* Price: Grab a set of 6 or more, and enjoy special pricing! CHANGE PRICES!!!!!!!!!!!!!!!!!!!!!!
+* The perfect way to deliver heartfelt messages for any occasion:Proposal, Baby Shower, New Year's Wishes, Valentine's & Mother´s Day
+* Handmade Ceramic Fortune Cookies
+* Color: A beautiful variety—check out the actual pictures for details!
+* Material: Made from clay with a glossy glaze or hand-painted with acrylics 
+* Custom Made: Order 10 or more and create your very own unique design!
+* Price: Grab a set of 6 or more, and enjoy special pricing!
 
 
 
 <div class="table-container">
   <table>
     <tr><th>Size</th><th>Dimension (Inches)</th><th>Price (USD)</th><th>Dimension (cm)</th><th>Price (EUR)</th></tr>
-    <tr><td>S</td><td>~4'' x 1.5''</td><td>$25</td><td>~10 x 8cm</td><td>€23</td></tr>
-    <tr><td>M</td><td>~16'' x 2''</td><td>$40</td><td>16 x 5 cm</td><td>€38</td></tr>
-    <tr><td>L</td><td>~7'' x 3,5''</td><td>$75</td><td>19 x 9 cm</td><td>€70</td></tr>
-	<tr><td>XL</td><td>~11'' x 3''</td><td>$140</td><td>28 x 8 cm</td><td>€130</td></tr>
+    <tr><td>S</td><td>~2''</td><td>$25</td><td>~5 cm</td><td>€23</td></tr>
+    <tr><td>M</td><td>~3''</td><td>$40</td><td>~8 cm</td><td>€38</td></tr>
+  
   
   </table>
 </div>
@@ -29,12 +29,11 @@ tags:   [Gift Ideas, Tableware, Art]
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/OceanBowls1.jpg">
-    <img src="/images/OceanBowls2.jpg">
-    <img src="/images/OceanBowls3.jpg">
+    <img src="/images/Fortune1.jpg">
+    <img src="/images/Fortune3.jpg">
 
  
   </div>
 </div>
 
-![Picture]({{site.baseurl}}/images/OceanBowls7.jpg)
+![Picture]({{site.baseurl}}/images/Fortune7.jpg)

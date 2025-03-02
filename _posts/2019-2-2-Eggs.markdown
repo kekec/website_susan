@@ -2,15 +2,14 @@
 layout: post
 title:  Egg Cups
 date:   2019-2-2 15:01:35 +0300
-image:  '/images/15.jpg'
+image:  '/images/Egg0.jpg'
 tags:   [Gift Ideas, Tableware, Art]
 ---
 ### Design Features:
-* xxx
-* Color: xxx
-* Material: xxx
+* These egg cups will make your breakfast feel like a little celebration!
+* Material: Imagine smooth white porcelain with a soft lavender glaze, earthy stoneware kissed by a rustic speckled finish, rich red clay crowned in glossy emerald, and warm terracotta with a bold cobalt blue glaze—each piece a unique clay-and-glaze masterpiece!
 * Food-safe and dishwasher-safe
-* Price: Grab a set of 6 or more, and enjoy special pricing! CHANGE PRICES!!!!!!!!!!!!!!!!!!!!!!
+* Price: Each $40 (€38) Grab a set of 6 or more, and enjoy special pricing!
 
 
 

@@ -24,7 +24,7 @@ However, most important to me is that you are happy with your purchase, so letâ€
       <div class="col col-12">
         <div class="section__info">
           <div class="section__head">
-            <h2 class="section__title">Recent exhibitions</h2>
+            <h2 class="section__title">You might also like</h2>
             <a class="section__link" href="{{ '/blog' | relative_url }}">Artwork</a>
           </div>
         </div>
@@ -41,23 +41,10 @@ However, most important to me is that you are happy with your purchase, so letâ€
       {% endif %}
     </div>
   </div>
-
+Not done shopping yet? <br>Dive into my artwork and discover more pieces youâ€™ll love!
 </section>
 <!-- end blog -->
 
-
-## You might also like
-
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/corals.jpg">
-    <img src="/images/FloralNo1.jpg">
-    <img src="/images/blackRoses.jpg">
-    <img src="/images/bluebarnecal.jpg">
-    <img src="/images/gallery8.jpg">
-    <img src="/images/FortuneCookies2.jpg">
-  </div>Not done shopping yet? <br>Dive into my artwork and discover more pieces youâ€™ll love!
- 
 {% comment %} ## Have questions? Iâ€™m here to help!
 
  

@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Flower No. 3
-date:   2019-6-6 15:01:35 +0300
-image:  '/images/Flower30.jpg'
+title:  Flower No. 2
+date:   2019-5-5 15:01:35 +0300
+image:  '/images/FlowerNo10.jpg'
 tags:   [Florals, Wall Decor, Art]
 ---
 ### Design Features:
@@ -22,13 +22,6 @@ tags:   [Florals, Wall Decor, Art]
 </div>
 
 
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/Flower31.jpg">
-    <img src="/images/Flower32.jpg">
-    <img src="/images/Flower33.jpg">
 
- 
-  </div>
-</div>
 
+![Picture]({{site.baseurl}}/images/Flower17.jpg)

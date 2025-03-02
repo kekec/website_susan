@@ -40,7 +40,7 @@ portfolio:
   portfolio__title: Gallery 
   portfolio__gallery:
     - image: /images/product1.jpg
-      title: White Porcelain Flower No 1
+      title: Flower No. 4
       description: To display on any surface or to hang on a wall (completed with a hanging system) <br><a href="https://unsplash.com/photos/8Od75hgzb9Y">Discover more</a>
 
     - image: /images/gallery2.jpg
@@ -55,7 +55,7 @@ portfolio:
       title: Black Ceramic Roses
       description: To display on any surface or to hang on a wall (completed with a hanging system)<br><a href="https://unsplash.com/photos/nDd3dIkkOLo">Discover more</a>
 
-    - image: /images/gallery5.jpg
+    - image: /images/FortuneC0.jpg
       title: Handmade Ceramic Fortune Cookies
       description: The perfect way to deliver heartfelt messages for any occasion! <br><a href="https://unsplash.com/photos/alS7ewQ41M8">Discover more</a>
 
@@ -67,13 +67,13 @@ portfolio:
       title: White Porcelain Roses
       description: To display on any surface or to hang on a wall (completed with a hanging system) <br><a href="https://unsplash.com/photos/EbuaKnSm8Zw">Discover more</a>
 
-    - image: /images/gallery8.jpg
+    - image: /images/Egg0.jpg
       title: Egg Cups
       description: Egg cups, butter dishes, ornaments—oh my! Check out my other fun ceramic creations! <br><a href="https://unsplash.com/photos/a6x7YPiNxwI">Discover more fun ceramics</a>
 
     - image: /images/product9.jpg
       title: Black And White Porcelain Dahlia
-      description: To display on any surface or to hang on a wall (completed with a hanging system) <br><a href="https://unsplash.com/photos/fFIAKABImf4">Discover more</a>
+      description: To display on any surface or to hang on a wall (completed with a hanging system) <br><a href="blog/">Discover more</a>
       
 
 

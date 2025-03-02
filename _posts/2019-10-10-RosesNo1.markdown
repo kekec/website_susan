@@ -1,14 +1,16 @@
 ---
 layout: post
-title:  Flower No. 1
-date:   2019-5-5 15:01:35 +0300
-image:  '/images/FlowerNo10.jpg'
+title:  Roses No. 1
+description:
+date:   2019-10-10 15:01:35 +0300
+image:  '/images/Roses20.jpg'
 tags:   [Florals, Wall Decor, Art]
 ---
 ### Design Features:
 * Can be displayed on any surface or hung on a wall (includes hanging system).
 * Each piece is meticulously hand-built, with each petal, and coral pinched and shaped by hand before being applied to a clay base.
 * Material: black clay, white porcelain
+
 
 <div class="table-container">
   <table>
@@ -22,6 +24,13 @@ tags:   [Florals, Wall Decor, Art]
 </div>
 
 
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/Roses11.jpg">
+    <img src="/images/Roses12.jpg">
 
+	
+ 
+  </div>
+</div>
 
-![Picture]({{site.baseurl}}/images/Flower17.jpg)

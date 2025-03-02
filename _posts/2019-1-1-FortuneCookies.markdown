@@ -11,20 +11,20 @@ tags:   [Gift Ideas, Tableware, Art]
 * Color: A beautiful variety—check out the actual pictures for details!
 * Material: Made from clay with a glossy glaze or hand-painted with acrylics 
 * Custom Made: Order 10 or more and create your very own unique design!
-* Price: Grab a set of 6 or more, and enjoy special pricing!
 
+
+Grab a set of 4 or more, and enjoy special pricing!
 
 
 <div class="table-container">
   <table>
     <tr><th>Size</th><th>Dimension (Inches)</th><th>Price (USD)</th><th>Dimension (cm)</th><th>Price (EUR)</th></tr>
-    <tr><td>S</td><td>~2''</td><td>$25</td><td>~5 cm</td><td>€23</td></tr>
-    <tr><td>M</td><td>~3''</td><td>$40</td><td>~8 cm</td><td>€38</td></tr>
-  
-  
+    <tr><td>1</td><td>~2''</td><td>$25</td><td>~5 cm</td><td>€24</td></tr>
+    <tr><td>4 or more</td><td>~2''</td><td>$20</td><td>~5 cm</td><td>€19</td></tr>
+	<tr><td>6 or more</td><td>~2''</td><td>$15</td><td>~5 cm</td><td>€14</td></tr>
+
   </table>
 </div>
-
 
 
 <div class="gallery-box">

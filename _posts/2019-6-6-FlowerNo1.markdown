@@ -26,7 +26,7 @@ tags:   [Florals, Wall Decor, Art]
   <div class="gallery">
     <img src="/images/Flower31.jpg">
     <img src="/images/Flower32.jpg">
-    <img src="/images/Flower33.jpg">
+
 
  
   </div>

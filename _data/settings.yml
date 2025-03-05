@@ -4,6 +4,7 @@ title: Liljen Ceramic Design
 logo: '/images/logorund750.jpg'
 author: Susann Winter
 description: Contemporary Ceramic Artist
+url: kekec.github.io/website_susan/
 
 
 #-------------------------------
@@ -64,7 +65,7 @@ portfolio:
       description: To display on any surface or to hang on a wall (completed with a hanging system) <br><a href="blog/">Discover more</a>
 
     - image: /images/Roses20.jpg
-      title: Roses No. 2
+      title: Roses No. 1
       description: To display on any surface or to hang on a wall (completed with a hanging system) <br><a href="blog/">Discover more</a>
 
     - image: /images/Egg0.jpg

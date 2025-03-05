@@ -4,9 +4,10 @@ title: Liljen Ceramic Design
 logo: '/images/logorund750.jpg'
 author: Susann Winter
 description: Contemporary Ceramic Artist
-url: kekec.github.io/website_susan/
 
-
+domain: kekec.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://kekec.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+baseurl: /website_susan/      # place folder name if the site is served in a subfolder
 #-------------------------------
 # Menu Settings
 menu__settings:

@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
 title: Liljen Ceramic Design
-logo: '/images/logorund750.jpg'
+logo: '/images/logorund180.jpg'
 author: Susann Winter
 description: Contemporary Ceramic Artist
 
@@ -77,12 +77,6 @@ portfolio:
       title: Dahlia
       description: To display on any surface or to hang on a wall (completed with a hanging system) <br><a href="blog/">Discover more</a>
       
-
-
-
-      
-
-
 #-------------------------------
 # Subscribe Settings
 mailchimp:
@@ -90,7 +84,6 @@ mailchimp:
   mailchimp__identifier: //design.us13.list-manage.com/subscribe/post?u=47bfd895db9476aa3a07fa7a1&amp;id=2f29b10ce3&amp;f_id=0081b8e1f0
   mailchimp__button__text: Subscribe # Add your button text.
   mailchimp__bg__color: "#f2eef8" # To change the color of the figure, add a hexadecimal color code (HEX). For example - "#f2eef8" (You can generate any color here - https://htmlcolorcodes.com/).
-
 
 #-------------------------------
 # Footer Settings

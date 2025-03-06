@@ -44,7 +44,7 @@ layout: default
     <div class="post__content">
       {{ content }}
     </div>
-
+  {% comment %}
     <div class="post__share">
       <ul class="share__list list-reset">
         <li class="share__item">
@@ -69,7 +69,7 @@ layout: default
         </li>
       </ul>
     </div>
-
+ {% endcomment %}
     {% if site.data.settings.disqus-identifier %} {% include disqus-comments.html %} {% endif %}
 
   </article>

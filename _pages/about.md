@@ -17,18 +17,18 @@ From the moment I discovered clay, I was hooked. I spend all my free time in the
 Living by the ocean has deeply influenced my work. My European roots shape my clean, contemporary aesthetic, blending simplicity with organic forms. Whether I’m tide-pooling, diving, or admiring floral patterns, I translate these inspirations into ceramics. My pieces don’t seek to replicate nature exactly but to capture its essence—like abstract art.
 
 Through my work, I hope to spark curiosity, evoke wonder, and inspire a deeper appreciation for the beauty and biodiversity around us.
+<br><br>
+
+
+## Exhibition History
 
 
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/product1.jpg">
-	<img src="/images/product2.jpg">
-	<img src="/images/product3.jpg">
-	<img src="/images/product4.jpg">
-	<img src="/images/product5.jpg">
-	<img src="/images/product6.jpg">
+	
   </div>
-  <em>Ceramic Flowers </em>
+  <em>Check out my current exhibitions </em>
 </div>
 
 

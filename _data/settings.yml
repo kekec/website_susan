@@ -1,27 +1,31 @@
 #-------------------------------
+#domain: kekec.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: "https://kekec.github.io"  # the base hostname and protocol for your site, e.g. http://example.com
+baseurl: "/website_susan"      # place folder name if the site is served in a subfolder
+
+
+
 # Site Settings
 title: Liljen Ceramic Design
 logo: '/images/logorund180.jpg'
 author: Susann Winter
 description: Contemporary Ceramic Artist
 
-#domain: kekec.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https://kekec.github.io  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: /website_susan/      # place folder name if the site is served in a subfolder
+
 #-------------------------------
 # Menu Settings
 menu__settings:
   menu__items:
     - title: 'Welcome'
-      url: '{{ site.baseurl }}/'
+      url: '/'
     - title: 'Artwork'
-      url: '{{ site.baseurl }}/blog/'
+      url: '/blog/'
     - title: 'About the Artist'
-      url: '{{ site.baseurl }}/about/'
+      url: '/about/'
     - title: 'Contact'
-      url: '{{ site.baseurl }}/contact/'
+      url: '/contact/'
     - title: 'Shopping'
-      url: '{{ site.baseurl }}/elements/'
+      url: '/elements/'
 
 
 #-------------------------------

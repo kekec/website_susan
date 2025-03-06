@@ -7,7 +7,8 @@ image: '/images/shopping.jpg'
 
 ## Before You Shop – Let’s Chat First!
 
-Check out my "Artwork" section! Spotted a piece you love? Shoot me an email at [hello@liljen.design](mailto:hello@liljen.design) with the one that caught your eye and where you'd like it shipped!
+Check out my "Artwork" section! Spotted a piece you love? 
+<br>Shoot me an email at [hello@liljen.design](mailto:hello@liljen.design) with the one that caught your eye and where you'd like it shipped!
 
 Every ceramic piece is handmade with love: whether it’s slab-built, wheel-thrown, or pinched, no two are exactly alike. Glazes have a mind of their own, creating beautiful surprises like crackles, pools, and tiny crystals. 
 That’s the magic of handmade! These unique variations make each piece special and are not considered flaws or reasons for exchange. 

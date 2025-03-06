@@ -5,7 +5,7 @@ logo: '/images/logorund180.jpg'
 author: Susann Winter
 description: Contemporary Ceramic Artist
 
-domain: kekec.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+#domain: kekec.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://kekec.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 baseurl: /website_susan/      # place folder name if the site is served in a subfolder
 #-------------------------------
@@ -13,15 +13,15 @@ baseurl: /website_susan/      # place folder name if the site is served in a sub
 menu__settings:
   menu__items:
     - title: 'Welcome'
-      url: '/'
+      url: '{{ site.baseurl }}/'
     - title: 'Artwork'
-      url: '/blog/'
+      url: '{{ site.baseurl }}/blog/'
     - title: 'About the Artist'
-      url: '/about/'
+      url: '{{ site.baseurl }}/about/'
     - title: 'Contact'
-      url: '/contact/'
+      url: '{{ site.baseurl }}/contact/'
     - title: 'Shopping'
-      url: '/elements/'
+      url: '{{ site.baseurl }}/elements/'
 
 
 #-------------------------------

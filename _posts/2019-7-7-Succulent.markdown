@@ -4,7 +4,7 @@ title:  Succulents
 description:
 date:   2019-7-7 15:01:35 +0300
 image:  '/images/Succulent0.jpg'
-tags:   [Florals, Wall Decor, Art]
+tags:   [Florals, Wallart, Art]
 ---
 ### Design Features:
 * Can be displayed on any surface or hung on a wall (includes hanging system).

@@ -3,7 +3,7 @@ layout: post
 title:  Fortune Cookies
 date:   2019-1-1 15:01:35 +0300
 image:  '/images/FortuneC0.jpg'
-tags:   [Gift Ideas, Tableware, Art]
+tags:   [Giftware, Tableware, Art]
 ---
 ### Design Features:
 * The perfect way to deliver heartfelt messages for any occasion:Proposal, Baby Shower, New Year's Wishes, Valentine's & Mother´s Day

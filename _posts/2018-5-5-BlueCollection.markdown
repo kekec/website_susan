@@ -3,7 +3,7 @@ layout: post
 title:  Blue Collection
 date:   2018-5-5 15:01:35 +0300
 image:  '/images/BlueC0.jpg'
-tags:   [Corals, Wall Decor, Art]
+tags:   [Corals, Wallart, Art]
 ---
 ### Design Features:
 * Can be displayed on any surface or hung on a wall (includes hanging system).

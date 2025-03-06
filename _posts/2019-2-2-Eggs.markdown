@@ -3,7 +3,7 @@ layout: post
 title:  Egg Cups
 date:   2019-2-2 15:01:35 +0300
 image:  '/images/Egg0.jpg'
-tags:   [Gift Ideas, Tableware, Art]
+tags:   [Giftware, Tableware, Art]
 ---
 ### Design Features:
 * These egg cups will make your breakfast feel like a little celebration!

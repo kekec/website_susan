@@ -3,7 +3,7 @@ layout: post
 title:  Barnacles
 date:   2018-8-8 15:01:35 +0300
 image:  '/images/Barnacles0.jpg'
-tags:   [Corals, Wall Decor, Art]
+tags:   [Corals, Wallart, Art]
 ---
 ### Design Features:
 * Can be displayed on any surface or hung on a wall (includes hanging system).

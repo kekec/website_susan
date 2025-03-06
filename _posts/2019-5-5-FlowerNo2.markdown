@@ -3,7 +3,7 @@ layout: post
 title:  Flower No. 2
 date:   2019-5-5 15:01:35 +0300
 image:  '/images/FlowerNo10.jpg'
-tags:   [Florals, Wall Decor, Art]
+tags:   [Florals, Wallart, Art]
 ---
 ### Design Features:
 * Can be displayed on any surface or hung on a wall (includes hanging system).

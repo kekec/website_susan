@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Coral No. 2
+description: Can be hung on a wall (includes hanging system) or be displayed on any surface.
 date:   2018-7-7 15:01:35 +0300
 image:  '/images/Coral20.jpg'
 tags:   [Corals, Wallart, Art]
@@ -24,8 +25,8 @@ tags:   [Corals, Wallart, Art]
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/Coral21.jpg">
-    <img src="/images/Coral22.jpg">
+    <img src="/website_susan/images/Coral21.jpg">
+    <img src="/website_susan/images/Coral22.jpg">
  
 	
  

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Barnacles
+description: Can be hung on a wall (includes hanging system) or be displayed on any surface.
 date:   2018-8-8 15:01:35 +0300
 image:  '/images/Barnacles0.jpg'
 tags:   [Corals, Wallart, Art]
@@ -26,9 +27,9 @@ tags:   [Corals, Wallart, Art]
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/Barnacles1.jpg">
-    <img src="/images/Barnacles2.jpg">
-    <img src="/images/Barnacles3.jpg">
+    <img src="/website_susan/images/Barnacles1.jpg">
+    <img src="/website_susan/images/Barnacles2.jpg">
+    <img src="/website_susan/images/Barnacles3.jpg">
 	
  
   </div>

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Flower No. 1
+description: Can be hung on a wall (includes hanging system) or be displayed on any surface.
 date:   2019-6-6 15:01:35 +0300
 image:  '/images/Flower30.jpg'
 tags:   [Florals, Wallart, Art]
@@ -24,8 +25,8 @@ tags:   [Florals, Wallart, Art]
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/Flower31.jpg">
-    <img src="/images/Flower32.jpg">
+    <img src="/website_susan/images/Flower31.jpg">
+    <img src="/website_susan/images/Flower32.jpg">
 
 
  

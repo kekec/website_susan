@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Blue Collection
+description: Can be hung on a wall (includes hanging system) or be displayed on any surface.
 date:   2018-5-5 15:01:35 +0300
 image:  '/images/BlueC0.jpg'
 tags:   [Corals, Wallart, Art]
@@ -25,12 +26,12 @@ tags:   [Corals, Wallart, Art]
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/BlueC1.jpg">
-    <img src="/images/BlueC2.jpg">
-    <img src="/images/BlueC3.jpg">
-    <img src="/images/BlueC4.jpg">
-    <img src="/images/BlueC5.jpg">
-    <img src="/images/BlueC6.jpg">
+    <img src="/website_susan/images/BlueC1.jpg">
+    <img src="/website_susan/images/BlueC2.jpg">
+    <img src="/website_susan/images/BlueC3.jpg">
+    <img src="/website_susan/images/BlueC4.jpg">
+    <img src="/website_susan/images/BlueC5.jpg">
+    <img src="/website_susan/images/BlueC6.jpg">
   </div>
 </div>
 

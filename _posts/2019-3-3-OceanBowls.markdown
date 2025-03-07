@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Ocean Bowls
+description: Perfect for dips, pasta, and salads - these Bowls make every meal look amazing!
 date:   2019-3-3 15:01:35 +0300
 image:  '/images/OceanBowls0.jpg'
 tags:   [Bowls, Tableware, Art]
@@ -29,9 +30,9 @@ tags:   [Bowls, Tableware, Art]
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/OceanBowls1.jpg">
-    <img src="/images/OceanBowls2.jpg">
-    <img src="/images/OceanBowls3.jpg">
+    <img src="/website_susan/images/OceanBowls1.jpg">
+    <img src="/website_susan/images/OceanBowls2.jpg">
+    <img src="/website_susan/images/OceanBowls3.jpg">
 
  
   </div>

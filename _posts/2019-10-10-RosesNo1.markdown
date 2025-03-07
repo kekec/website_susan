@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Roses No. 1
-description:
+description: Can be hung on a wall (includes hanging system) or be displayed on any surface.
 date:   2019-10-10 15:01:35 +0300
 image:  '/images/Roses20.jpg'
 tags:   [Florals, Wallart, Art]
@@ -26,8 +26,8 @@ tags:   [Florals, Wallart, Art]
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/Roses11.jpg">
-    <img src="/images/Roses12.jpg">
+    <img src="/website_susan/images/Roses11.jpg">
+    <img src="/website_susan/images/Roses12.jpg">
 
 	
  

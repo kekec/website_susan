@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Fortune Cookies
+description: The perfect way to deliver heartfelt messages for any occasion!
 date:   2019-1-1 15:01:35 +0300
 image:  '/images/FortuneC0.jpg'
 tags:   [Giftware, Tableware, Art]
@@ -29,8 +30,8 @@ Grab a set of 4 or more, and enjoy special pricing!
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/Fortune1.jpg">
-    <img src="/images/Fortune3.jpg">
+    <img src="/website_susan/images/Fortune1.jpg">
+    <img src="/website_susan/images/Fortune3.jpg">
 
  
   </div>

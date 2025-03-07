@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Flower No. 2
+description: Can be hung on a wall (includes hanging system) or be displayed on any surface.
 date:   2019-5-5 15:01:35 +0300
 image:  '/images/FlowerNo10.jpg'
 tags:   [Florals, Wallart, Art]

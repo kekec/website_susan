@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Succulents
-description:
+description: Can be hung on a wall (includes hanging system) or be displayed on any surface.
 date:   2019-7-7 15:01:35 +0300
 image:  '/images/Succulent0.jpg'
 tags:   [Florals, Wallart, Art]
@@ -29,9 +29,9 @@ tags:   [Florals, Wallart, Art]
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/Succulent1.jpg">
-    <img src="/images/Succulent2.jpg">
-    <img src="/images/Succulent3.jpg">
+    <img src="/website_susan/images/Succulent1.jpg">
+    <img src="/website_susan/images/Succulent2.jpg">
+    <img src="/website_susan/images/Succulent3.jpg">
 
  
   </div>

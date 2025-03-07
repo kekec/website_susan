@@ -1,12 +1,13 @@
 ---
 layout: post
 title:  Egg Cups
+description: Egg cups that hold your egg and a tiny flower for a charming touch! 
 date:   2019-2-2 15:01:35 +0300
 image:  '/images/Egg0.jpg'
 tags:   [Giftware, Tableware, Art]
 ---
 ### Design Features:
-* These egg cups will make your breakfast feel like a little celebration!
+* These egg cups hold your egg and a tiny flower for a charming touch and will make your breakfast feel like a little celebration!
 * Material: Imagine smooth white porcelain with a soft lavender glaze, earthy stoneware kissed by a rustic speckled finish, rich red clay crowned in glossy emerald, and warm terracotta with a bold cobalt blue glaze—each piece a unique clay-and-glaze masterpiece!
 * Food-safe and dishwasher-safe
 

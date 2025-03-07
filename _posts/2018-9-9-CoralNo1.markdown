@@ -3,7 +3,7 @@ layout: post
 title:  Coral No. 1
 description: Can be hung on a wall (includes hanging system) or be displayed on any surface.
 date:   2018-9-9 15:01:35 +0300
-image:  '/website_susan/images/Coral100.jpg'
+image:  '/images/Coral20.jpg'
 tags:   [Corals, Wallart, Art]
 ---
 ### Design Features:

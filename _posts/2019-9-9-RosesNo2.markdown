@@ -1,16 +1,16 @@
 ---
 layout: post
 title:  Roses No. 2
-description:
+description: Heute ist ein schöner Tag
 date:   2019-9-9 15:01:35 +0300
 image:  '/images/Roses10.jpg'
 tags:   [Florals, Wallart, Art]
 ---
+
 ### Design Features:
 * Can be displayed on any surface or hung on a wall (includes hanging system).
 * Each piece is meticulously hand-built, with each petal, and coral pinched and shaped by hand before being applied to a clay base.
 * Material: black clay, white porcelain
-
 
 <div class="table-container">
   <table>

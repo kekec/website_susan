@@ -3,7 +3,7 @@ layout: post
 title:  Blue Collection
 description: Can be hung on a wall (includes hanging system) or be displayed on any surface.
 date:   2018-5-5 15:01:35 +0300
-image:  '/images/BlueC0.jpg'
+image:  '/images/Blue0.jpg'
 tags:   [Corals, Wallart, Art]
 ---
 ### Design Features:

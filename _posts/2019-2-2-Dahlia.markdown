@@ -26,9 +26,9 @@ tags:   [Florals, Wallart, Art]
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/website_susan/images/Dahlia11.jpg">
-    <img src="/website_susan/images/Dahlia12.jpg">
-    <img src="/website_susan/images/Dahlia13.jpg">
+    <img src="/images/Dahlia11.jpg">
+    <img src="/images/Dahlia12.jpg">
+    <img src="/images/Dahlia13.jpg">
   </div>
 </div>
 

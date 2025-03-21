@@ -25,7 +25,7 @@ However, most important to me is that you are happy with your purchase, so letâ€
       <div class="col col-12">
         <div class="section__info">
           <div class="section__head">
-            <h2 class="section__title">You</h2>
+            <h2 class="section__title">You might also like</h2>
             <a class="section__link" href="{{ '/blog' | relative_url }}">Artwork</a>
           </div>
         </div>

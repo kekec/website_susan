@@ -25,8 +25,8 @@ Through my work, I hope to spark curiosity, evoke wonder, and inspire a deeper a
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/website_susan/images/Ex2024.jpg">
-	<img src="/website_susan/images/Ex2025.jpg">
+    <img src="/images/Ex2024.jpg">
+	<img src="/images/Ex2025.jpg">
 	
   </div>
   <em>Check out my upcoming exhibitions in the Welcome section. </em>

@@ -29,9 +29,9 @@ tags:   [Florals, Wallart, Art]
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/website_susan/images/Succulent1.jpg">
-    <img src="/website_susan/images/Succulent2.jpg">
-    <img src="/website_susan/images/Succulent3.jpg">
+    <img src="/images/Succulent1.jpg">
+    <img src="/images/Succulent2.jpg">
+    <img src="/images/Succulent3.jpg">
 
  
   </div>

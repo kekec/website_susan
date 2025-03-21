@@ -27,9 +27,9 @@ tags:   [Corals, Wallart, Art]
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/website_susan/images/Barnacles1.jpg">
-    <img src="/website_susan/images/Barnacles2.jpg">
-    <img src="/website_susan/images/Barnacles3.jpg">
+    <img src="/images/Barnacles1.jpg">
+    <img src="/images/Barnacles2.jpg">
+    <img src="/images/Barnacles3.jpg">
 	
  
   </div>

@@ -30,9 +30,9 @@ tags:   [Bowls, Tableware, Art]
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/website_susan/images/OceanBowls1.jpg">
-    <img src="/website_susan/images/OceanBowls2.jpg">
-    <img src="/website_susan/images/OceanBowls3.jpg">
+    <img src="/images/OceanBowls1.jpg">
+    <img src="/images/OceanBowls2.jpg">
+    <img src="/images/OceanBowls3.jpg">
 
  
   </div>

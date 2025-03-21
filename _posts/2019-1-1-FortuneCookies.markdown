@@ -30,8 +30,8 @@ Grab a set of 4 or more, and enjoy special pricing!
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/website_susan/images/Fortune1.jpg">
-    <img src="/website_susan/images/Fortune3.jpg">
+    <img src="/images/Fortune1.jpg">
+    <img src="/images/Fortune3.jpg">
 
  
   </div>

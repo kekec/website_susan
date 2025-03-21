@@ -25,8 +25,8 @@ tags:   [Florals, Wallart, Art]
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/website_susan/images/Flower31.jpg">
-    <img src="/website_susan/images/Flower32.jpg">
+    <img src="/images/Flower31.jpg">
+    <img src="/images/Flower32.jpg">
 
 
  

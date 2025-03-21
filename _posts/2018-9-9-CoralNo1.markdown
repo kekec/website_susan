@@ -27,8 +27,8 @@ tags:   [Corals, Wallart, Art]
 <div class="gallery-box">
   <div class="gallery">
 
-    <img src="/website_susan/images/Coral11.jpg">
-    <img src="/website_susan/images/Coral13.jpg">
+    <img src="/images/Coral11.jpg">
+    <img src="/images/Coral13.jpg">
 	
  
   </div>

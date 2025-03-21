@@ -26,12 +26,12 @@ tags:   [Corals, Wallart, Art]
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/website_susan/images/BlueC1.jpg">
-    <img src="/website_susan/images/BlueC2.jpg">
-    <img src="/website_susan/images/BlueC3.jpg">
-    <img src="/website_susan/images/BlueC4.jpg">
-    <img src="/website_susan/images/BlueC5.jpg">
-    <img src="/website_susan/images/BlueC6.jpg">
+    <img src="/images/BlueC1.jpg">
+    <img src="/images/BlueC2.jpg">
+    <img src="/images/BlueC3.jpg">
+    <img src="/images/BlueC4.jpg">
+    <img src="/images/BlueC5.jpg">
+    <img src="/images/BlueC6.jpg">
   </div>
 </div>
 

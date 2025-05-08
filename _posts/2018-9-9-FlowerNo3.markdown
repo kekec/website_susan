@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  Coral No. 1
+title:  Flower No. 3
 description: Can be hung on a wall (includes hanging system) or be displayed on any surface.
 date:   2018-9-9 15:01:35 +0300
-image:  '/images/Coral10.jpg'
-tags:   [Corals, Wallart, Art]
+image:  '/images/Flower20.jpg'
+tags:   [Florals, Wallart, Art]
 ---
 ### Design Features:
 * Can be displayed on any surface or hung on a wall (includes hanging system).
@@ -25,12 +25,13 @@ tags:   [Corals, Wallart, Art]
 
 <div class="gallery-box">
   <div class="gallery">
-
-    <img src="/images/Coral11.jpg">
-    <img src="/images/Coral13.jpg">
+    <img src="/images/Flower321.jpg">
+    <img src="/images/Flower22.jpg">
+    <img src="/images/Flower323.jpg">
+	<img src="/images/Flower24.jpg">
+    <img src="/images/Flower25.jpg">
+    <img src="/images/Flower26.jpg">
 	
  
   </div>
 </div>
-
-![Picture]({{site.baseurl}}/images/Coral17.jpg)

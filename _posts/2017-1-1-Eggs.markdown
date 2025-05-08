@@ -2,7 +2,7 @@
 layout: post
 title:  Egg Cups
 description: Egg cups that hold your egg and a tiny flower for a charming touch! 
-date:   2017-3-3 15:01:35 +0300
+date:   2017-1-1 15:01:35 +0300
 image:  '/images/Egg0.jpg'
 tags:   [Giftware, Tableware, Art]
 ---

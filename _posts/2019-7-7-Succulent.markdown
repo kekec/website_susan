@@ -14,11 +14,9 @@ tags:   [Florals, Wallart, Art]
 <div class="table-container">
   <table>
     <tr><th>Size</th><th>Dimension (Inches)</th><th>Price (USD)</th><th>Dimension (cm)</th><th>Price (EUR)</th></tr>
-    <tr><td>S</td><td>~Ø 4.7''</td><td>$250</td><td>~Ø 12cm</td><td>€240</td></tr>
-    <tr><td>M</td><td>~Ø 6''</td><td>$310</td><td>~Ø 15cm</td><td>€295</td></tr>
-    <tr><td>L</td><td>~Ø 8.6'' </td><td>$430</td><td>~Ø 22cm</td><td>€410</td></tr>
-	<tr><td>XL</td><td>~Ø 15'' </td><td>$900</td><td>~Ø 40cm</td><td>€860</td></tr>
-  
+    <tr><td>S</td><td>~Ø 5''</td><td>$250</td><td>~Ø 13cm</td><td>€240</td></tr>
+    <tr><td>M</td><td>~Ø 8.6'' </td><td>$430</td><td>~Ø 22cm</td><td>€410</td></tr>
+	<tr><td>L</td><td>~Ø 15'' </td><td>$900</td><td>~Ø 40cm</td><td>€860</td></tr>
   </table>
 </div>
 
